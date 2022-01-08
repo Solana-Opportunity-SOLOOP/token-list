@@ -73270,6 +73270,25 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DXhrmoxeZudsMCk4W9sBX6SwktW4hCkdsPD7VBqpVXE5",
+      "symbol": "SOLOPP",
+      "name": "Solana Opportunity Token",
+      "decimals": 9,
+      "logoURI": "https://sat02pap001files.storage.live.com/y4mSafTtHYtalLxa4Vbq2TPKgkyfN_Bl4tCxBJGDLgWsiwV3RAJhH7ujonGbRVOWhxX_HTKFKi-RiljLISHnEY-290lC-ZUgZRVTz05bneEW0AcVhjf_uDm0pk5bI2N4IOMIAskQoyZdm8RGDx9aPFRaj0kQoyWM0WBbXF6pre7GyccGi1siB9lYTWoQYj8qQdJ?width=256&height=256&cropmode=none",
+      "tags": [
+        "social-token",
+        "NFT"
+      ],
+      "extensions": {
+        "description": "A decentralized meme and NFT Token incorporated in the solana ecosystem aimed at giving each and everyone an equal access to wealth and financial freedom in the crypto space.",
+        "twitter": "https://mobile.twitter.com/Sol_opp",
+        "telegram": "https://t.me/sol_opp",
+        "discord": "https://discord.gg/Xq73pVcH",
+        "website": "https://solopp.io"
+      }
     }
   ],
   "version": {
